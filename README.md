@@ -5,8 +5,12 @@
   
 <div>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"&link=mailto:gamangee1991@gmail.com>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"&link=https://github.com/gamangee>
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"&link=https://velog.io/@gamangee>
+<a href="https://github.com/gamangee">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+</a>
+<a href="https://velog.io/@gamangee">
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
 </div>
   
 <br>

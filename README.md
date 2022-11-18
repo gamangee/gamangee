@@ -7,12 +7,14 @@
 <h3> 🌐 My Links </h3>
   
 <div>
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gamangee1991@gmail.com">
+<a href="mailto:gamangee1991@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>
 
 <a href="https://heliotrope-clavicle-ac1.notion.site/bf74af9b387f43c885e5a9e146da321a">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
-<a href="https://velog.io/@gamangee">
+<a href="https://velog.io/@gamangee/series">
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 </a>
 </div>

@@ -51,7 +51,7 @@
 <div>
   <div>코오롱 :
     <a href="https://flax-zircon-5cf.notion.site/2f4b53dd0e8447d2afab8d0558b880f6">
-    <img src="https://img.shields.io/badge/Notion-ECD53F?style=for-the-badge&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-FC4C02?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
   </div>
   <div>석문정's To Do List : 

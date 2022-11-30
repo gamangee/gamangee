@@ -12,9 +12,11 @@
 </a>
 
 <a href="https://heliotrope-clavicle-ac1.notion.site/bf74af9b387f43c885e5a9e146da321a">
+
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
 <a href="https://velog.io/@gamangee/series">
+
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 </a>
 </div>
@@ -42,6 +44,26 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white">
+</div>
+  
+<br>
+<h3>📑 Study Diary</h3>
+<div>
+  <div>코오롱 :
+    <a href="https://flax-zircon-5cf.notion.site/2f4b53dd0e8447d2afab8d0558b880f6">
+    <img src="https://img.shields.io/badge/Notion-ECD53F?style=for-the-badge&logo=Notion&logoColor=white">
+    </a>
+  </div>
+  <div>석문정's To Do List : 
+    <a href="https://heliotrope-clavicle-ac1.notion.site/s-To-Do-Lists-90f8a19a06fb4579b89e29827738210d">
+  <img src="https://img.shields.io/badge/Notion-512BD4?style=for-the-badge&logo=Notion&logoColor=white">
+</a>
+
+  </div>
+
+
+
+
 </div>
 <div>
   

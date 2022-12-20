@@ -15,7 +15,7 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
-<a href="https://velog.io/@gamangee/series">
+<a href="https://velog.io/@gamangee">
 
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
 </a>
@@ -47,30 +47,8 @@
 </div>
   
 <br>
-<h3>📑 Study Diary</h3>
-<div>
-  <div>코오롱 :
-    <a href="https://flax-zircon-5cf.notion.site/2f4b53dd0e8447d2afab8d0558b880f6">
-    <img src="https://img.shields.io/badge/Notion-FC4C02?style=for-the-badge&logo=Notion&logoColor=white">
-    </a>
-  </div>
-  <div>석문정's To Do List : 
-    <a href="https://heliotrope-clavicle-ac1.notion.site/s-To-Do-Lists-90f8a19a06fb4579b89e29827738210d">
-  <img src="https://img.shields.io/badge/Notion-512BD4?style=for-the-badge&logo=Notion&logoColor=white">
-</a>
-
-  </div>
-
-
-
-
-</div>
-<div>
-  
-</div>
 <br>
-<br>
-<br>
+
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gamangee&show_icons=true&theme=highcontrast)
 

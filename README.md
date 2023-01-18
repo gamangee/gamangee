@@ -47,10 +47,6 @@
 </div>
   
 <br>
-<br>
-
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gamangee&show_icons=true&theme=highcontrast)
 
 </div>
 

@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 </a>
 
-<a href="https://heliotrope-clavicle-ac1.notion.site/bf74af9b387f43c885e5a9e146da321a">
+<a href="https://heliotrope-clavicle-ac1.notion.site/12a363c8bbd940d38138c9be1a6b30cd">
 
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
